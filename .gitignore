@@ -1,0 +1,5 @@
+/fpga/*
+!/fpga/Makefile
+/ip/*/*
+!/ip/*/*.xci
+README.md
